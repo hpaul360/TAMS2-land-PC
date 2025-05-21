@@ -1,0 +1,7 @@
+tams2_land:
+  ros__parameters:
+    cam_pos: [0.15, 0.0, -0.02] # x,y,z
+    arm1_pos: [-0.1500, 0.0000]   # arm1 x,y
+    arm2_pos: [0.0750, -0.1299]   # arm2 x,y
+    arm3_pos: [0.0750, 0.1299]    # arm3 x,y
+    arm_diameter: 0.01 # in meters
